@@ -1,0 +1,1 @@
+D:\Vulkan\Bin\glslc.exe name_shaders - o name_shader.spv
